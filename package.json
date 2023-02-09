@@ -1,0 +1,35 @@
+{
+  "name": "rv8pxb",
+  "version": "0.0.1",
+  "description": "Logs images sent in certain channels or an entire server with a Discord.js bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "image",
+    "logger",
+    "logging",
+    "image-logger"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkoPendragon/discord.js-image-logger"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkoPendragon/discord.js-image-logger/issues"
+  },
+  "author": "demisex",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  }
+}
